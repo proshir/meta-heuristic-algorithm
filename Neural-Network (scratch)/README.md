@@ -1,4 +1,4 @@
-# Neural Network Implementation README
+# Neural Network Implementation
 
 This repository contains Python code for implementing a simple neural network from scratch using NumPy. The code demonstrates various functionalities including building the model, plotting decision boundaries, experimenting with different hyperparameters, and extending the network to handle multiple classes.
 
